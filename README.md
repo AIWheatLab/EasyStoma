@@ -1,4 +1,4 @@
-# UniStoma
+# EasyStoma
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch%20%26%20MMSeg-orange)
@@ -10,9 +10,9 @@
 ---
 
 <a name="english"></a>
-## 🔬 UniStomaExtraction: High-Throughput Stomatal Phenotyping Tool
+## 🔬 EasyStoma: High-Throughput Stomatal Phenotyping Tool
 
-**UniStomaExtraction** is an automated software designed for the high-throughput analysis of plant stomatal phenotypes. It integrates Deep Learning (**MMSegmentation/PyTorch**) for precise segmentation and provides a comprehensive statistical pipeline for morphological and spatial analysis.
+**EasyStoma** is an automated software designed for the high-throughput analysis of plant stomatal phenotypes. It integrates Deep Learning (**MMSegmentation/PyTorch**) for precise segmentation and provides a comprehensive statistical pipeline for morphological and spatial analysis.
 
 > **Note:** This is a closed-source compiled application. We provide a ready-to-use executable for Windows.
 
@@ -30,12 +30,12 @@
 
 We provide a packaged executable for Windows users. The package includes trained model weights and configuration files.
 
-* **Download Link:** [UniStomaExtraction (Google Drive)](https://drive.google.com/file/d/1erKMNXsbGSvgw0q7cJ549pt9J7HxwnGu/view?usp=drive_link)
+* **Download Link:** [EasyStoma (Google Drive)](https://drive.google.com/file/d/1erKMNXsbGSvgw0q7cJ549pt9J7HxwnGu/view?usp=drive_link)
 
 ### 🚀 Quick Start
 
 1.  **Download & Extract**: Download the zip file from the link above and extract it to a local folder.
-2.  **Run Application**: Double-click `UniStoma.exe` (or `main.exe` depending on the package name) to launch the GUI.
+2.  **Run Application**: Double-click `EasyStoma.exe` to launch the GUI.
 3.  **Workflow**:
     * **Step 1 (Load)**: Click **"1. Open Image Dir"** to select the folder containing your microscopic images.
     * **Step 2 (Settings)**: (Optional) Adjust **"2. Appearance"** or **"3. Pre-processing"** filters (Border/Small object filtering).
@@ -49,9 +49,9 @@ We provide a packaged executable for Windows users. The package includes trained
 ---
 
 <a name="chinese"></a>
-## 🔬 UniStomaExtraction: 高通量气孔表型分析工具
+## 🔬 EasyStoma: 高通量气孔表型分析工具
 
-**UniStomaExtraction** 是一款专为植物气孔表型研究设计的自动化分析软件。它集成了深度学习（**MMSegmentation/PyTorch**）算法以实现高精度分割，并提供了一套完整的形态学与空间分布统计分析流程。
+**EasyStoma** 是一款专为植物气孔表型研究设计的自动化分析软件。它集成了深度学习（**MMSegmentation/PyTorch**）算法以实现高精度分割，并提供了一套完整的形态学与空间分布统计分析流程。
 
 > **注意：** 本软件为闭源桌面应用程序，我们为 Windows 用户提供开箱即用的可执行文件。
 
@@ -69,12 +69,12 @@ We provide a packaged executable for Windows users. The package includes trained
 
 我们提供了打包好的 Windows 可执行程序，下载包中已包含训练好的模型权重和配置文件，无需配置 Python 环境。
 
-* **下载链接:** [UniStomaExtraction (Google Drive)](https://drive.google.com/file/d/1erKMNXsbGSvgw0q7cJ549pt9J7HxwnGu/view?usp=drive_link)
+* **下载链接:** [EasyStoma (Google Drive)](https://drive.google.com/file/d/1erKMNXsbGSvgw0q7cJ549pt9J7HxwnGu/view?usp=drive_link)
 
 ### 🚀 使用教程
 
 1.  **下载与解压**: 点击上方链接下载压缩包，并解压到本地文件夹。
-2.  **启动程序**: 双击运行文件夹中的 `UniStoma.exe` (或 `main.exe`)。
+2.  **启动程序**: 双击运行文件夹中的 `EasyStoma.exe`。
 3.  **操作流程**:
     * **Step 1 (导入)**: 点击左上角 **"1. Open Image Dir"** 选择包含显微照片的文件夹。
     * **Step 2 (设置)**: (可选) 通过 **"2. Appearance"** 调整颜色，或在 **"3. Pre-processing"** 中勾选过滤选项（过滤边缘/噪点）。
