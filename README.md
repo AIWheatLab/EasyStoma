@@ -30,7 +30,7 @@
 
 We provide a packaged executable for Windows users. The package includes trained model weights and configuration files.
 
-* **Download Link:** [EasyStoma (Google Drive)](https://drive.google.com/file/d/1erKMNXsbGSvgw0q7cJ549pt9J7HxwnGu/view?usp=drive_link)
+* **Download Link:** [EasyStoma (Google Drive)](https://drive.google.com/file/d/1fce9qXjAEk5KfBUNUIYJIl6_iuMh97p2/view?usp=sharing)
 
 ### 🚀 Quick Start
 
@@ -69,7 +69,7 @@ We provide a packaged executable for Windows users. The package includes trained
 
 我们提供了打包好的 Windows 可执行程序，下载包中已包含训练好的模型权重和配置文件，无需配置 Python 环境。
 
-* **下载链接:** [EasyStoma (Google Drive)](https://drive.google.com/file/d/1erKMNXsbGSvgw0q7cJ549pt9J7HxwnGu/view?usp=drive_link)
+* **下载链接:** [EasyStoma (Google Drive)](https://drive.google.com/file/d/1fce9qXjAEk5KfBUNUIYJIl6_iuMh97p2/view?usp=sharing)
 
 ### 🚀 使用教程
 
