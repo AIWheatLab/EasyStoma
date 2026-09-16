@@ -14,7 +14,7 @@ EasyStoma is a GPU-accelerated application for stomatal image segmentation, batc
 
 请从以下 Google Drive 链接下载完整软件：
 
-**[Google Drive 下载地址——请替换为实际共享链接](https://drive.google.com/REPLACE_WITH_YOUR_LINK)**
+**[Google Drive](https://drive.google.com/drive/folders/1EcdTy8rvT1d_vgYqoqfyjCyMKH1k7gA4?usp=drive_link)**
 
 请下载完整的 `EasyStoma_GPU` 文件夹。不要只下载或复制其中的 `EasyStoma.exe`。
 
@@ -133,7 +133,7 @@ nvidia-smi
 
 Download the complete application from the following Google Drive link:
 
-**[Google Drive download — replace with the actual shared link](https://drive.google.com/REPLACE_WITH_YOUR_LINK)**
+**[Google Drive download](https://drive.google.com/drive/folders/1EcdTy8rvT1d_vgYqoqfyjCyMKH1k7gA4?usp=drive_link)**
 
 Download the entire `EasyStoma_GPU` folder. Do not download or copy only `EasyStoma.exe`.
 
